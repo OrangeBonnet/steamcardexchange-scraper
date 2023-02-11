@@ -1,5 +1,6 @@
-# steamcardexchange-scraper
-**Finaly json file example:**
+﻿
+Finaly json file example:
+
     "appid": 1XXXXX0,
     "time": 16XXXXXXXX1,
     "cards": true,
@@ -28,3 +29,4 @@
           "NAME": "LINK"
         }
     }
+
