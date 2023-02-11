@@ -8,25 +8,25 @@ Finaly json file example:
         "app_name": "APP_NAME",
         "app_img": "APP_IMG_LINK",
         "cards": {
-          "NAME": "LINK"
+          "NAME": "IMG_LINK"
         },
         "cards_foil": {
-          "NAME": "LINK"
+          "NAME": "IMG_LINK"
         },
         "booster_packs": {
-          "NAME": "LINK"
+          "NAME": "IMG_LINK"
         },
         "badges": {
-          "NAME": "LINK"
+          "NAME": "IMG_LINK"
         },
         "badges_foil": {
-          "NAME": "LINK"
+          "NAME": "IMG_LINK"
         },
         "emoticons": {
-          "NAME": "LINK"
+          "NAME": "IMG_LINK"
         },
         "backgrounds": {
-          "NAME": "LINK"
+          "NAME": "IMG_LINK"
         }
     }
 
